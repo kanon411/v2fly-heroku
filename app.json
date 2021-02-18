@@ -1,0 +1,21 @@
+{
+    "name": "V2Ray",
+    "description": "Deploy V2ray on Heroku.",
+    "keywords": ["V2Ray"],
+    "env": {
+        "UUID": {
+            "description": "V2Ray UUID",
+            "value": "ad806487-2d26-4636-98b6-ab85cc8521f7"
+        },
+        "BUFFERSIZE": {
+            "description": "V2Ray BUFFERSIZE",
+            "value": "307200"
+        },
+        "VER": {
+            "description": "V2Ray VER",
+            "value": "v4.33.0"
+        }
+    },
+    "repository": "https://github.com/kanon411/v2ray-heroku",
+    "stack": "container"
+}
