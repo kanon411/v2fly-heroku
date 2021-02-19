@@ -9,7 +9,7 @@
         },
         "BUFFERSIZE": {
             "description": "V2Ray BUFFERSIZE",
-            "value": "204800"
+            "value": "51200"
         },
         "VER": {
             "description": "V2Ray VER",
